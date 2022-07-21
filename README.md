@@ -1,2 +1,2 @@
-# pembelajaran-website
-belajar bagaimana membuat sebuah website
+# membuat-navbar
+membuat sebuah navigation bar sederhana
